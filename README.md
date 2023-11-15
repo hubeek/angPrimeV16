@@ -1,6 +1,7 @@
 # Test16
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+Basic setup with angular and prime ng v16.
 
 ## Development server
 
